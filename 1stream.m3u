@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Zing" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="ZEE5 LITE",Zing
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"-fiy4wcERYuNuESIhc4yvg","kid":"8PsU7r5HSmq3TIMB1vPyJA"}],"type":"temporary"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
