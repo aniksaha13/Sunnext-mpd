@@ -1,3 +1,6 @@
+আপনার তিনটি ইমেজ (Screenshot_20260626_041751.jpg, Screenshot_20260626_041810.jpg, এবং IMG_20260626_054140.jpg) থেকে **ZEE5 LITE** গ্রুপের চ্যানেলগুলো ফিল্টার করে এবং সঠিক DRM ক্লিয়ার-কী (ClearKey) ও হেডার বিন্যাস বজায় রেখে একটি সম্পূর্ণ এবং কাজের .m3u প্লেলিস্ট তৈরি করা হয়েছে।
+এটি সরাসরি কপি করে গিটহাব (GitHub) বা যেকোনো আইপিটিভি প্লেয়ারে (যেমন- Kodi, OTT Navigator, Tivimate) ব্যবহার করতে পারবেন।
+```playlist
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
