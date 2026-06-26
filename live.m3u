@@ -3,8 +3,7 @@
 # ⏱ Last Updated: 2026-06-22 08:02:46 (BD Time)
 # 📺 Channels Count: 1
 #===================================
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="BYNA FREE",DD Sports
-https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
 #EXTINF:-1 group-title="SUN NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194408/640x360_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg",Sun TV
