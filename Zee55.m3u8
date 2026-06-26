@@ -1,6 +1,3 @@
-আপনার তিনটি ইমেজ (Screenshot_20260626_041751.jpg, Screenshot_20260626_041810.jpg, এবং IMG_20260626_054140.jpg) থেকে **ZEE5 LITE** গ্রুপের চ্যানেলগুলো ফিল্টার করে এবং সঠিক DRM ক্লিয়ার-কী (ClearKey) ও হেডার বিন্যাস বজায় রেখে একটি সম্পূর্ণ এবং কাজের .m3u প্লেলিস্ট তৈরি করা হয়েছে।
-এটি সরাসরি কপি করে গিটহাব (GitHub) বা যেকোনো আইপিটিভি প্লেয়ারে (যেমন- Kodi, OTT Navigator, Tivimate) ব্যবহার করতে পারবেন।
-```playlist
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -73,11 +70,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ne9DFfAAQBmjcFvLPPMmow","kid":"hu3snjt9QEKK1KHKFPhH7g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ne9dfFAAQBmjcFvLPPMmow","kid":"hu3snjt9QEKK1KHKFPhH7g"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="Zoom" tvg-name="ZOOM" tvg-type="Music" tvg-language="Hindi" tvg-logo="https://jiotvcatchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="ZEE5 LITE",ZOOM
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
-
-```
-### প্রধান পরিবর্তনসমূহ ও ফিক্সিং:
- * **সঠিক ক্রমবিন্যাস:** ইমেজে কিছু লাইসেন্স কী নিচের চ্যানেলের সাথে ওভারল্যাপ লাগছিল, সেগুলোকে কোডিং স্ট্যান্ডার্ড অনুযায়ী নির্দিষ্ট চ্যানেলের ঠিক উপরে সেট করা হয়েছে (যেমন: Big Magic-এর কোনো কী ছিল না, তবে Zee Anmol ও Zee Bollywood-এর কী-গুলো সঠিকভাবে ম্যাপিং করা হয়েছে)।
- * **গিটহাব রেডি:** প্লেলিস্টের শুরুতে #EXTM3U যুক্ত করা হয়েছে যা গিটহাব বা যেকোনো আইপিটিভি প্লেয়ারে ফাইলটি রিড করার জন্য বাধ্যতামূলক।
