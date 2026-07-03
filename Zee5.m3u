@@ -70,3 +70,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ne9DFfAAQBmjcFvLPPMMow","kid":"hu3snjt9QEKk1KHKFPhH7g"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="Zoom" tvg-name="ZOOM" tvg-type="Music" group-title="ZEE5 LITE" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="ZEE5 LITE",ZOOM
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ne9DFfAAQBmjcFvLPPMMow","kid":"hu3snjt9QEKk1KHKFPhH7g"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Zeebangla" tvg-name="Zeebangla" tvg-type="Entertainment" group-title="ZEE5 LITE" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="ZEE5 LITE",Zee-bangla
+https://alex4528.site/zee5/zee-bangla-hd/manifest.m3u8
