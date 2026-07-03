@@ -70,11 +70,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ne9DFfAAQBmjcFvLPPMMow","kid":"hu3snjt9QEKk1KHKFPhH7g"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="Zoom" tvg-name="ZOOM" tvg-type="Music" group-title="ZEE5 LITE" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="ZEE5 LITE",ZOOM
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ne9DFfAAQBmjcFvLPPMMow","kid":"hu3snjt9QEKk1KHKFPhH7g"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="Zeebangla" tvg-name="Zeebangla" tvg-type="Entertainment" group-title="ZEE5 LITE" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png" group-title="ZEE5 LITE",Zee-bangla
-http://180.94.28.28:8097/JALSHA-MOVIES/index.m3u8
+
 
 #EXTINF:-1 tvg-id="0-9-9z5383484" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/list/1920x1080listb02eb766e2e74b64a82d99ddd17011ec.jpg" group-title="Entertainment" lang="Bengali", Zee Bangla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-bangla/manifest.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5383484" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/list/1920x1080listb02eb766e2e74b64a82d99ddd17011ec.jpg" group-title="Entertainment" lang="Bengali", Zee Bangla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
+http://180.94.28.28:8097/JALSHA-MOVIES/index.m3u8
