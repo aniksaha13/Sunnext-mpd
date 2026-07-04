@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-id="0-9-aajtak" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-aajtak/list/1920x1080list2e097f784e864937856f4b15d577dea9.jpg" group-title="News" lang="Hindi", Aaj Tak
+#EXTINF:-1 tvg-id="0-9-aajtak" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-aajtak/list/1920x1080list2e097f784e864937856f4b15d577dea9.jpg" group-title="ZEE5 LITE-News" lang="Hindi", Aaj Tak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/aaj-tak/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-251" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-251/list/1920x1080list3997067f8c194d3abd3abf17a183e85b.jpg" group-title="News" lang="Hindi", TV9 Bharatvarsh
+#EXTINF:-1 tvg-id="0-9-251" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-251/list/1920x1080list3997067f8c194d3abd3abf17a183e85b.jpg" group-title="ZEE5 LITE-News" lang="Hindi", TV9 Bharatvarsh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/tv9-bharatvarsh/manifest.m3u8
 
@@ -104,75 +104,75 @@ https://alex4528.site/zee5/zee-talkies/manifest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-biskope/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeenews" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeenews/list/1920x1080list6f46ce2b3345452aaf6486f1138faf55.jpg" group-title="News" lang="Hindi", Zee News
+#EXTINF:-1 tvg-id="0-9-zeenews" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeenews/list/1920x1080list6f46ce2b3345452aaf6486f1138faf55.jpg" group-title="ZEE5 LITE-News" lang="Hindi", Zee News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-news/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeebusiness" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebusiness/list/1920x1080liste7f9cb0dbb2b4aea95f6f87f31bb0dba.jpg" group-title="News" lang="Hindi", Zee Business
+#EXTINF:-1 tvg-id="0-9-zeebusiness" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebusiness/list/1920x1080liste7f9cb0dbb2b4aea95f6f87f31bb0dba.jpg" group-title="ZEE5 LITE-News" lang="Hindi", Zee Business
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-business/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zee24taas" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zee24taas/list/1920x1080listf3b15afda8194c3a82c592963e562477.jpg" group-title="News" lang="Marathi", Zee 24 Taas
+#EXTINF:-1 tvg-id="0-9-zee24taas" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zee24taas/list/1920x1080listf3b15afda8194c3a82c592963e562477.jpg" group-title="ZEE5 LITE-News" lang="Marathi", Zee 24 Taas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-24-taas/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-257" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-257/list/1920x1080list5117a7ffa60f4fbb89e4a983d9ff1fd3.jpg" group-title="News" lang="Marathi", TV9 Marathi
+#EXTINF:-1 tvg-id="0-9-257" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-257/list/1920x1080list5117a7ffa60f4fbb89e4a983d9ff1fd3.jpg" group-title="ZEE5 LITE-News" lang="Marathi", TV9 Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/tv9-marathi/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-259" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-259/list/1920x1080lista505db213ec44e79a15958594030aee3.jpg" group-title="News" lang="Kannada", TV9 Kannada
+#EXTINF:-1 tvg-id="0-9-259" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-259/list/1920x1080lista505db213ec44e79a15958594030aee3.jpg" group-title="ZEE5 LITE-News" lang="Kannada", TV9 Kannada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/tv9-kannada/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-258" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-258/list/1920x1080listf159579f9b3641f9967581c6fe07d2f7.jpg" group-title="News" lang="Telugu", TV9 Telugu
+#EXTINF:-1 tvg-id="0-9-258" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-258/list/1920x1080listf159579f9b3641f9967581c6fe07d2f7.jpg" group-title="ZEE5 LITE-News" lang="Telugu", TV9 Telugu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/tv9-telugu/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-24ghantatv" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-24ghantatv/list/zee24ghanta1920x1080list9522f45f8d4c458587ece44d23e70dbe.jpg" group-title="News" lang="Bengali", Zee 24 Ghanta
+#EXTINF:-1 tvg-id="0-9-24ghantatv" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-24ghantatv/list/zee24ghanta1920x1080list9522f45f8d4c458587ece44d23e70dbe.jpg" group-title="ZEE5 LITE-News" lang="Bengali", Zee 24 Ghanta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-24-ghanta/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-261" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-261/list/1920x1080list3588bf1480f74af3ae326a0a99b250c6.jpg" group-title="News" lang="English", News 9
+#EXTINF:-1 tvg-id="0-9-261" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-261/list/1920x1080list3588bf1480f74af3ae326a0a99b250c6.jpg" group-title="ZEE5 LITE-News" lang="English", News 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/news-9/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-indiatoday" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-indiatoday/list/1920x1080list7688549badc94ac683c8575a9c294ccd.jpg" group-title="News" lang="English", India Today
+#EXTINF:-1 tvg-id="0-9-indiatoday" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-indiatoday/list/1920x1080list7688549badc94ac683c8575a9c294ccd.jpg" group-title="ZEE5 LITE-News" lang="English", India Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/india-today/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-wion" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-wion/list/1920x1080listd76e0469ed8b44c5baa119b3564e2f50.jpg" group-title="News" lang="English", WION
+#EXTINF:-1 tvg-id="0-9-wion" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-wion/list/1920x1080listd76e0469ed8b44c5baa119b3564e2f50.jpg" group-title="ZEE5 LITE-News" lang="English", WION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/wion/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-255" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="News" lang="Hindi", Good News Today
+#EXTINF:-1 tvg-id="0-9-255" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="ZEE5 LITE-News" lang="Hindi", Good News Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/good-news-today/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_PHH.svg" group-title="News" lang="Punjabi", Zee Punjab Haryana Himachal Pradesh
+#EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_PHH.svg" group-title="ZEE5 LITE-News" lang="Punjabi", Zee Punjab Haryana Himachal Pradesh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-punjab-haryana-himachal/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zee24kalak" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_24-KALAK.svg" group-title="News" lang="Gujarati", Zee 24 Kalak
+#EXTINF:-1 tvg-id="0-9-zee24kalak" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_24-KALAK.svg" group-title="ZEE5 LITE-News" lang="Gujarati", Zee 24 Kalak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-24-kalak/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeehindustan" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_BHARAT.svg" group-title="News" lang="Hindi", Zee Bharat
+#EXTINF:-1 tvg-id="0-9-zeehindustan" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_BHARAT.svg" group-title="ZEE5 LITE-News" lang="Hindi", Zee Bharat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-bharat/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_BIHAR-JHARKHAND.svg" group-title="News" lang="Hindi", Zee Bihar Jharkhand
+#EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_BIHAR-JHARKHAND.svg" group-title="ZEE5 LITE-News" lang="Hindi", Zee Bihar Jharkhand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-bihar-jharkhand/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeekalinganews" tvg-logo="https://english.cdn.zeenews.com/static/public/updated_logos/delhi-ncr-haryana.svg" group-title="News" lang="Hindi", Zee Delhi NCR Haryana
+#EXTINF:-1 tvg-id="0-9-zeekalinganews" tvg-logo="https://english.cdn.zeenews.com/static/public/updated_logos/delhi-ncr-haryana.svg" group-title="ZEE5 LITE-News" lang="Hindi", Zee Delhi NCR Haryana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-delhi-ncr-haryana/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeerajasthannews" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_RAJASTHAN.svg" group-title="News" lang="Hindi", Zee Rajasthan News
+#EXTINF:-1 tvg-id="0-9-zeerajasthannews" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/ZEE_RAJASTHAN.svg" group-title="ZEE5 LITE-News" lang="Hindi", Zee Rajasthan News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-rajasthan-news/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeemadhyapradeshchat" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/Zee_mp-cg.svg" group-title="News" lang="Hindi", Zee Madhya Pradesh Chhattisgarh
+#EXTINF:-1 tvg-id="0-9-zeemadhyapradeshchat" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/Zee_mp-cg.svg" group-title="ZEE5 LITE-News" lang="Hindi", Zee Madhya Pradesh Chhattisgarh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-madhya-pradesh-chhattisgarh/manifest.m3u8
 
@@ -180,7 +180,7 @@ https://alex4528.site/zee5/zee-madhya-pradesh-chhattisgarh/manifest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-salaam/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-logo="https://english.cdn.zeenews.com/static/public/updated_logos/up-uttarakhand.svg" group-title="News" lang="Hindi", Zee News Uttar Pradesh Uttrakhand
+#EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-logo="https://english.cdn.zeenews.com/static/public/updated_logos/up-uttarakhand.svg" group-title="ZEE5 LITE-News" lang="Hindi", Zee News Uttar Pradesh Uttrakhand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-news-up-uk/manifest.m3u8
 
