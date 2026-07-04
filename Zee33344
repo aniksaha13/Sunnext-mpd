@@ -65,3 +65,11 @@ https://alex4528.site/zee5/zee-kannada-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="0-9-241" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-241/list/1920x1080listc7e052932e2b437489d2f1e14445c837.jpg" group-title="Entertainment" lang="Kannada", Zee Power HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-power-hd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="0-9-129" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-129/list/1920x1080list18c8c56d87da4f43ac13a1990c44a2e5.jpg" group-title="Entertainment" lang="Malayalam", Zee Keralam HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
+https://alex4528.site/zee5/zee-keralam-hd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.jpg" group-title="Movie" lang="Hindi", &xplorHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
+https://alex4528.site/zee5/andxplorhd/manifest.m3u8
