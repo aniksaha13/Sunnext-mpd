@@ -18,7 +18,7 @@ https://alex4528.site/zee5/zee-marathi-hd/manifest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-telugu-hd/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg" group-title="Movie" lang="Telugu", Zee Cinemalu HD
+#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg" group-title="ZEE5 LITE" lang="Telugu", Zee Cinemalu HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-cinemalu-hd/manifest.m3u8
 
@@ -26,7 +26,7 @@ https://alex4528.site/zee5/zee-cinemalu-hd/manifest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-telugu/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-9z5383488" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383488/list/1920x1080list8147fef103204cf4a2bc7a8aef2b9221.jpg" group-title="Movie" lang="Telugu", Zee Cinemalu
+#EXTINF:-1 tvg-id="0-9-9z5383488" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383488/list/1920x1080list8147fef103204cf4a2bc7a8aef2b9221.jpg" group-title="ZEE5 LITE" lang="Telugu", Zee Cinemalu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-cinemalu/manifest.m3u8
 
@@ -34,15 +34,15 @@ https://alex4528.site/zee5/zee-cinemalu/manifest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-marathi/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeetalkies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetalkies/list/1920x1080list8db83dea9fb7450aa0d1bf6a4e5f30f5.jpg" group-title="Movie" lang="Marathi", Zee Talkies HD
+#EXTINF:-1 tvg-id="0-9-zeetalkies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetalkies/list/1920x1080list8db83dea9fb7450aa0d1bf6a4e5f30f5.jpg" group-title="ZEE5 LITE" lang="Marathi", Zee Talkies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-talkies-hd/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-176/list/1920x1080list18cba842de654a3cb92b33556dfa0bc2.jpg" group-title="Movie" lang="Hindi", Zee Classic
+#EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-176/list/1920x1080list18cba842de654a3cb92b33556dfa0bc2.jpg" group-title="ZEE5 LITE" lang="Hindi", Zee Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-classic/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-224" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-224/list/1920x1080listb7f3310976d14ed59a22940af7587e9a.jpg" group-title="Movie" lang="Tamil", Zee Thirai HD
+#EXTINF:-1 tvg-id="0-9-224" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-224/list/1920x1080listb7f3310976d14ed59a22940af7587e9a.jpg" group-title="ZEE5 LITE" lang="Tamil", Zee Thirai HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-thirai-hd/manifest.m3u8
 
@@ -54,7 +54,7 @@ https://alex4528.site/zee5/zee-tamil/manifest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/unite8-1-hd/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-348/list/1920x1080list7568db782c114329afd8bb7e030eca0d.jpg" group-title="Lifestyle" lang="English", Zee Zest HD
+#EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-348/list/1920x1080list7568db782c114329afd8bb7e030eca0d.jpg" group-title="ZEE5 LITE" lang="English", Zee Zest HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-zest-hd/manifest.m3u8
 
@@ -70,7 +70,7 @@ https://alex4528.site/zee5/zee-power-hd/manifest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-keralam-hd/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.jpg" group-title="Movie" lang="Hindi", &xplorHD
+#EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.jpg" group-title="ZEE5 LITE" lang="Hindi", &xplorHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/andxplorhd/manifest.m3u8
 
@@ -91,16 +91,16 @@ https://alex4528.site/zee5/zee-sarthak/manifest.m3u8
 https://alex4528.site/zee5/zee-punjabi/manifest.m3u8
 
 
-#EXTINF:-1 tvg-id="0-9-bigganga" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list/1920x1080list07c314433276453ca706229ab5e5c042.jpg" group-title="Movie" lang="Hindi", Anmol Cinema 2
+#EXTINF:-1 tvg-id="0-9-bigganga" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list/1920x1080list07c314433276453ca706229ab5e5c042.jpg" group-title="ZEE5 LITE" lang="Hindi", Anmol Cinema 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/anmol-cinema-2/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-9z5383489" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383489/list/1920x1080list43aaeb0656a9484e855f731963eeeb20.jpg" group-title="Movie" lang="Marathi", Zee Talkies
+#EXTINF:-1 tvg-id="0-9-9z5383489" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383489/list/1920x1080list43aaeb0656a9484e855f731963eeeb20.jpg" group-title="ZEE5 LITE" lang="Marathi", Zee Talkies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-talkies/manifest.m3u8
 
 
-#EXTINF:-1 tvg-id="0-9-216" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-216/list/1920x1080list277eec9ca86a41f2bdc68935794767e9.jpg" group-title="Movie" lang="Bhojpuri", Zee Biskope
+#EXTINF:-1 tvg-id="0-9-216" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-216/list/1920x1080list277eec9ca86a41f2bdc68935794767e9.jpg" group-title="ZEE5 LITE" lang="Bhojpuri", Zee Biskope
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-biskope/manifest.m3u8
 
