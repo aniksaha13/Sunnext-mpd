@@ -184,34 +184,34 @@ https://alex4528.site/zee5/zee-salaam/manifest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/zee-news-up-uk/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-9z5398792" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/oognna.jpeg" group-title="Devotional" lang="Hindi", Dharm Sandesh
+#EXTINF:-1 tvg-id="0-9-9z5398792" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/oognna.jpeg" group-title="ZEE5 LITE Devotional" lang="Hindi", Dharm Sandesh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/dharm-sandesh/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-9z5398793" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/cbgzfa.jpeg" group-title="Devotional" lang="Hindi", Aastha Bhajan
+#EXTINF:-1 tvg-id="0-9-9z5398793" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/cbgzfa.jpeg" group-title="ZEE5 LITE Devotional" lang="Hindi", Aastha Bhajan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/aastha-bhajan/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-9z5398761" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/ycbqly.jpeg" group-title="Devotional" lang="Hindi", Aastha
+#EXTINF:-1 tvg-id="0-9-9z5398761" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/ycbqly.jpeg" group-title="ZEE5 LITE Devotional" lang="Hindi", Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/aastha/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-9z5398768" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/iilpuo.jpeg" group-title="Devotional" lang="Telugu", Aastha Telugu
+#EXTINF:-1 tvg-id="0-9-9z5398768" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/iilpuo.jpeg" group-title="ZEE5 LITE Devotional" lang="Telugu", Aastha Telugu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/aastha-telugu/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-9z5398770" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/vwnnbv.jpeg" group-title="Devotional" lang="Tamil", Aastha Tamil
+#EXTINF:-1 tvg-id="0-9-9z5398770" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/vwnnbv.jpeg" group-title="ZEE5 LITE Devotional" lang="Tamil", Aastha Tamil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/aastha-tamil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-9z5398771" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/ndgvsw.jpeg" group-title="Devotional" lang="Kannada", Aastha Kannada
+#EXTINF:-1 tvg-id="0-9-9z5398771" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/ndgvsw.jpeg" group-title="ZEE5 LITE Devotional" lang="Kannada", Aastha Kannada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/aastha-kannada/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-9z5398791" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/pqeztp.jpeg" group-title="Devotional" lang="Gujarati", Aastha Gujarati
+#EXTINF:-1 tvg-id="0-9-9z5398791" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/pqeztp.jpeg" group-title="ZEE5 LITE Devotional" lang="Gujarati", Aastha Gujarati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/aastha-gujarati/manifest.m3u8
 
-#EXTINF:-1 tvg-id="0-9-9z5398762" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/txbmsf.png" group-title="Devotional" lang="Hindi", Aastha Prime
+#EXTINF:-1 tvg-id="0-9-9z5398762" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/aastha/320/280/content/common/channel/logos/txbmsf.png" group-title="ZEE5 LITE Devotional" lang="Hindi", Aastha Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 @alex_vault
 https://alex4528.site/zee5/aastha-prime/manifest.m3u8
