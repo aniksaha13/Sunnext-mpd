@@ -1,0 +1,77 @@
+#=====sport======
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-1 FiFa-2026
+https://cdn-tt.pages.dev/ch1.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-2 FiFa-2026
+https://cdn-tt.pages.dev/ch2.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-3 FiFa-2026
+https://cdn-tt.pages.dev/ch3.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-4 FiFa-2026
+https://cdn-tt.pages.dev/ch4.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-5 FiFa-2026
+https://cdn-tt.pages.dev/ch5.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-6 FiFa-2026
+https://cdn-tt.pages.dev/ch6.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/FTnx9jJ.png" group-title="sports",WILLOW- SPORT
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/96y2oeC.png" group-title="sports",Bein Sport Extra 
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/XIcxAfg.png" group-title="sports",Bein Sport-1 FiFa
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/tFwATiy.png" group-title="sports",Bein Sport-3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/KwagyOJ.png" group-title="sports",Bein Sport-4
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/uKfNSxB.png" group-title="sports",Bein Sport-5
+https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/RD7AMod.png" group-title="sports",TSport-HD 1
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/RD7AMod.png" group-title="sports",TSport-HD 2
+https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/RD7AMod.png" group-title="sports",TSport-HD 3
+http://172.19.17.3:8090/hls/tsportshd3rd.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/RD7AMod.png" group-title="sports",TSport-HD 4
+http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/RD7AMod.png" group-title="sports",TSport-HD 5
+https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/RD7AMod.png" group-title="sports",TSport-HD 6
+http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/RD7AMod.png" group-title="sports",TSport-HD 7
+http://180.94.28.28:8097//PTV-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Ic3ulgy.png" group-title="sports",Somoy Tv-FiFa 1
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Ic3ulgy.png" group-title="sports",Somoy Tv-FiFa 2
+http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Ic3ulgy.png" group-title="sports",Somoy Tv-FiFa 3
+http://180.94.28.28:8097/Somoy-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Ic3ulgy.png" group-title="sports",Somoy Tv-FiFa 4
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Ic3ulgy.png" group-title="sports",Somoy Tv-FiFa 5
+http://fastshare1.com/live/25711345/late8airline/422.ts
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/unhEKvf.jpeg" group-title="sports",BTV NAtional FiFa-1
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/unhEKvf.jpeg" group-title="sports",BTV NAtional FiFa-2
+http://114.130.57.233:8080/Gazi-TV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/unhEKvf.jpeg" group-title="sports",BTV NAtional FiFa-3
+http://198.195.239.50:8095/btv/video.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/UmkqPFt.jpeg" group-title="sports",Zeebangla Cinema FiFa
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/quUOgVo.jpeg" group-title="sports",Go live-FiFa
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WJS9M9E.png" group-title="sports",TSN-1 FiFa
+https://airtel.rkdyiptv.workers.dev/live/258.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/YvZdVoZ.jpeg" group-title="sports",PTV sport-1
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/YvZdVoZ.jpeg" group-title="sports",PTV sport-2
+http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/89.ts
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/YvZdVoZ.jpeg" group-title="sports",PTV sport-3
+http://114.130.57.233:8080/PTV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TUxtFxJ.jpeg" group-title="sports",Unite8 sports -1
+http://212.102.34.8:9080/AndFlixHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TUxtFxJ.jpeg" group-title="sports",Unite8 sports -2
+http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WO5GG7l.jpeg" group-title="sports",Bioscope Plus -1
+https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_1.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WO5GG7l.jpeg" group-title="sports",Bioscope Plus -2
+https://cannon.tahsinkh1234.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8?nocache=1783104253247
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WO5GG7l.jpeg" group-title="sports",Bioscope Plus -3
+https://cannon.tahsinkh1234.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8?nocache=1783104253247
